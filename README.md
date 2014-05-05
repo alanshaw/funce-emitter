@@ -21,6 +21,8 @@ Swapper.prototype.swap = function (index, item) {
   this.items[index] = item
   this.emit("swap", {removed: removed, added: item})
 }
+
+module.exports = Swapper
 ```
 
 main.js
