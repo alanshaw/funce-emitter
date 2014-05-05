@@ -18,7 +18,7 @@ FunceEmitter.prototype.funce = function (name, filter, handler) {
     }
   }
 
-  self.on(name, funceHandler)
+  return self.on(name, funceHandler)
 }
 
 module.exports = FunceEmitter
