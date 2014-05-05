@@ -1,6 +1,6 @@
 {
   "name": "funce-emitter",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Register a one listener for an event, fired only when the filter function returns true",
   "main": "FunceEmitter.js",
   "scripts": {
