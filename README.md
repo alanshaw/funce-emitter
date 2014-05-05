@@ -1,5 +1,7 @@
-# funce-emitter
+# funce-emitter [![Build Status](https://travis-ci.org/alanshaw/funce-emitter.svg?branch=master)](https://travis-ci.org/alanshaw/funce-emitter) [![devDependency Status](https://david-dm.org/alanshaw/funce-emitter/dev-status.svg)](https://david-dm.org/alanshaw/funce-emitter#info=devDependencies)
 Register a one listener for an event, fired only when the filter function returns true.
+
+[![browser support](https://ci.testling.com/alanshaw/funce-emitter.png)](https://ci.testling.com/alanshaw/funce-emitter)
 
 ## Example
 
