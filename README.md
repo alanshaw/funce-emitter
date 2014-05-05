@@ -50,3 +50,9 @@ swapper.funce(
 )
 ```
 
+## API
+FunceEmitter is an [EventEmitter](http://nodejs.org/api/events.html#events_class_events_eventemitter).
+
+### FunceEmitter.funce(eventName, filter, handler)
+Register a one time listener for the event `eventName`. De-registered and handled by the `handler` only when `filter` function returns *true*.
+
