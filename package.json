@@ -1,0 +1,30 @@
+{
+  "name": "funce-emitter",
+  "version": "0.0.0",
+  "description": "Register a one listener for an event, fired only when the filter function returns true",
+  "main": "FunceEmitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alanshaw/funce-emitter.git"
+  },
+  "keywords": [
+    "EventEmitter",
+    "events",
+    "event",
+    "emitter",
+    "filter",
+    "once",
+    "on",
+    "addListener",
+    "removeListener"
+  ],
+  "author": "Alan Shaw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alanshaw/funce-emitter/issues"
+  },
+  "homepage": "https://github.com/alanshaw/funce-emitter"
+}
